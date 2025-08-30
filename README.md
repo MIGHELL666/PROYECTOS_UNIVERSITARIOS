@@ -1,4 +1,4 @@
-<img src="BANNER" alt="Mi Banner" width="1024">  
+<img src="BANNER.png" alt="Mi Banner" width="1024">  
 
 # 🎓🚀 **COLECCIÓN DE PROYECTOS UNIVERSITARIOS** 📚✨  
 
